@@ -1,16 +1,10 @@
-# CS559 Workbook , Spring 2021
+# Model Solar System in THREE.js
 
-This set of web pages forms a "workbook" assignment for 
-CS559, Computer Graphics at the University of Wisconsin for Spring 2021.
+This was a project created at the University of Wisconsin-Madison as part of a CS559 Workbook Assignment in Spring 2022.
 
-Students should run a local web server and start with the `index.html` page.
-The html files may not work as "files" without a local server.
+------
 
-Information about the class is available on the course web:
-https://graphics.cs.wisc.edu/Courses/559-sp2021/
-
-The `for_students` sub-directory contains files for the students to read and
-modify. 
+Note from its creator:
 
 The `libs` sub-directory contains libraries used by the workbook. These
 have separate open source licenses provided in the directories. 
