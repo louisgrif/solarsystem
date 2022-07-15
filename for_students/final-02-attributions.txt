@@ -1,0 +1,18 @@
+List all attributions here, this include "self-attributions":
+
+mercury texture: https://solarsystem.nasa.gov/system/downloadable_items/671_PIA17386.jpg
+venus texture: https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg
+earth texture: https://media.istockphoto.com/photos/world-topographic-map-picture-id182058785?k=20&m=182058785&s=612x612&w=0&h=9ZQVMBQfHI-lWe1YFR2ps5e8UNBiHHKCsDmyvp9ZmLc=
+moon texture: https://www.google.com/search?q=moon+texture&tbm=isch&ved=2ahUKEwjn8eeF3sn3AhXOO80KHb0LCGAQ2-cCegQIABAA&oq=moon+texture&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzIFCAAQgAQyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDvAxAnOgYIABAHEB46BggAEAgQHjoECAAQGFDJBljiCWDjC2gAcAB4AIABaYgB2gOSAQMzLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=c3t0YqfsKc73tAa9l6CABg&rlz=1C1CHBF_enUS864US864#imgrc=xnE1roXYi1z8WM
+mars texture: https://static.wikia.nocookie.net/planet-texture-maps/images/1/19/Mars_Map.png/revision/latest/scale-to-width-down/2000?cb=20190402042909
+jupiter texture: https://www.solarsystemscope.com/textures/download/8k_jupiter.jpg
+saturn texture: https://www.solarsystemscope.com/textures/download/8k_saturn.jpg
+rings texture: https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311
+uranus texture: https://upload.wikimedia.org/wikipedia/commons/9/95/Solarsystemscope_texture_2k_uranus.jpg
+neptune texture: https://upload.wikimedia.org/wikipedia/commons/1/1e/Solarsystemscope_texture_2k_neptune.jpg
+pluto texture: https://www.google.com/search?q=pluto+texture&tbm=isch&ved=2ahUKEwj65cLw3cn3AhUVLc0KHcLICfgQ2-cCegQIABAA&oq=pluto+texture&gs_lcp=CgNpbWcQAzIECAAQQzIFCAAQgAQyBQgAEIAEMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIICAAQBxAFEB4yBggAEAUQHjoGCAAQCBAeOgQIABAYUIXPAVio0wFgyNUBaABwAHgAgAF0iAH7BJIBAzAuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=R3t0YrqmApXatAbCkafADw&rlz=1C1CHBF_enUS864US864#imgrc=mC-iyoJuaw7ShM
+
+skybox texture: https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=0&fov=80&nebulae=true&pointStars=true&resolution=1024&seed=5por9vuxv1o0&stars=true&sun=false
+
+rotation angles: https://upload.wikimedia.org/wikipedia/commons/a/a2/Solar_system_bodies_rotation_animation.svg
+rotation speeds: https://spaceplace.nasa.gov/days/en/

@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Planets
+2. Surveyor
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Sun
+4. Moon
+5. Saturn Rings
+6. Skybox
+7. ???
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- ???
+- ???
+- ???
+
+At least on of each type of object:
+Building/structure: Planets
+Vehicle: Surveyor
+Natural Element: Skybox
+
+Object loaded from a model file:
+Model: Planets and skybox
+
+An object with a shader that you wrote:
+ShaderObj: Sun is made with a simple shader
+
+Other Objects that you would like to note:
+???

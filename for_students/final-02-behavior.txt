@@ -1,0 +1,15 @@
+Three different behaviors that you made:
+1. Planets rotate on their axis based on how long a day takes on that planet
+2. Planets and the moon revolve around a given object
+3. Survey ship goes to random planets
+
+One behavior that is not simple:
+Not simple: The surveyor ship lifts off, points and flies to a planet, and then lands, all on a loop
+
+Animated Articulated Figure:
+Articulated: ???
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- The sun shines on the planets
+- ???
+- ???
